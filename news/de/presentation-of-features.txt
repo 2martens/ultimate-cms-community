@@ -1,0 +1,29 @@
+Titel: Vorstellung der Funktionen
+Beschreibung:
+Slug: presentation-of-features
+Meta-Beschreibung: The features of the Ultimate CMS are presented in a series of videos.
+Meta-Keywords: news, features, presentation
+Kategorien: [News], [Seiten]
+Tags: [News], [Funktionen], [Optionen]
+
+Text:
+Es ist soweit: Der finale Endspurt auf das große Ziel Release hat begonnen. Um alle darauf vorzubereiten wird es eine Serie an Videos geben,\n
+die die Funktionen des Ultimate CMS erklären und sowohl auf Deutsch als auch auf Englisch verfügbar sein werden.
+
+Die Themen beginnen mit den Optionen. Weitere Themen sind Templates und das Zusammenspiel von Inhalten, Kategorien und Seiten. Es wird auch\n
+noch weitere Themen geben, die an dieser Stelle aber noch nicht verraten werden. Diese Videos sind logischerweise kein Ersatz für eine voll\n
+ständige Dokumentation, leisten aber ihren Beitrag dazu. Nach einer Weile werden sie Teil der Funktionsseite werden.
+
+Die Videos werden unter der Creative-Commons-Attribution Lizenz auf Youtube veröffentlicht. Wenn jemand es technisch besser hinbekommt (vor\n
+allem ein 16:9 und kein 16:10 Monitor hat), dann freue ich mich aufrichtig auf entsprechende Alternativen, die ich dann gerne nach Durchsicht\n
+verlinken kann. Voraussetzung ist bei solchen Alternativen ebenfalls die Creative-Commons-Attribution Lizenz, damit Nutzer in jedem Fall die\n
+gleichen Möglichkeiten bekommen.
+
+Fragen oder Verbesserungsvorschläge zu den Videos bitte im Forum unter "Allgemeine Diskussionen und Feedback" posten. Reine "Gefällt mir" Posts\n
+bitte unterlassen und stattdessen einen entsprechenden Kommentar unter den Inhalt setzen.
+
+Heute geht es auch schon los mit dem ersten Video und den Optionen. Bei diesem und allen folgenden Videos bitte beachten, dass sie vor Release\n
+aufgenommen wurden und daher noch der eine Fehler beobachtet werden kann. Diese Fehler sind jedoch zu diesem Zeitpunkt (wenn Sie das lesen)\n
+längst behoben.
+
+[media]http://www.youtube.com/watch?v=u-r7-ETUB0M[/media] 
